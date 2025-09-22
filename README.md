@@ -49,6 +49,23 @@
 
 ---
 
+## 📊 GitHub Stats & Visualizations  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitendra2407&show_icons=true&theme=tokyonight" alt="Jitendra's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra2407&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra2407&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jitendra2407&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jitendrakt/)  
 - 🌐 [Portfolio](https://github.com/Jitendra2407)  
